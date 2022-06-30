@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1C64E3B3-322E-4EF8-B973-3EF32A3190DA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OSCController.cs">
+    <Files>
+      <File FileName="Assets/OSCController.cs" Line="9" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e2281298-ee0f-4bf9-9a4c-605bd5b03b56" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
